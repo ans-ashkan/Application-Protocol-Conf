@@ -1,0 +1,7 @@
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\XmlSerialization\bin\Debug\XmlSerialization.exe.config
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\XmlSerialization\bin\Debug\XmlSerialization.exe
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\XmlSerialization\bin\Debug\XmlSerialization.pdb
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\XmlSerialization\obj\Debug\XmlSerialization.csprojResolveAssemblyReference.cache
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\XmlSerialization\obj\Debug\XmlSerialization.exe
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\XmlSerialization\obj\Debug\XmlSerialization.pdb
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\XmlSerialization\bin\Debug\Person.xml

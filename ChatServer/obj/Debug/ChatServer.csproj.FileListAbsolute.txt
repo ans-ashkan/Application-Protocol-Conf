@@ -1,0 +1,9 @@
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatServer\bin\Debug\ChatServer.exe
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatServer\bin\Debug\ChatServer.pdb
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatServer\obj\Debug\ChatServer.exe
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatServer\obj\Debug\ChatServer.pdb
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatServer\bin\Debug\fastjson.dll
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatServer\bin\Debug\Common.dll
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatServer\bin\Debug\Common.pdb
