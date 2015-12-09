@@ -1,5 +1,0 @@
-D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\Common\bin\Debug\Common.dll
-D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\Common\bin\Debug\Common.pdb
-D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
-D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\Common\obj\Debug\Common.dll
-D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\Common\obj\Debug\Common.pdb

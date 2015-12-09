@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatClient\obj\Debug\
+D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatClient\obj\Release\
 ChatClient
 none
 false
-DEBUG;TRACE
+TRACE
 D:\Own\ApplicationProtocolConf\src\ApplicationProtocolConfExamples\ChatClient\App.xaml
 2184119814
 
-12-887929291
-1559477604
+122553224
+15870178353
 LoginDialog.xaml;MainWindow.xaml;
 
 False
